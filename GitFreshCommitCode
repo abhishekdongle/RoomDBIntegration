@@ -1,0 +1,29 @@
+
+New Project: Git Commands
+----------------------------
+
+
+1- Create an account at github.com.
+
+2- Create a repository up there
+
+3- Install Git on your computer. (Download it from http://git-scm.com)
+
+4- Go to the page of the repo that you created in step 2, find the "HTTPS clone url" and make a copy of it.
+
+5- Open Windows command prompt(or terminal in Linux) and execute command below:
+
+git clone your-repository-clone-url
+
+for example:
+git clone https://http://github.com/Dev-P/MyWorksToDo.git
+
+6- Copy your source-code files into the directory that git created in your PC.
+
+7- In the command prompt change the current directory to the directory which git created at your pc then execute code below:
+
+git add *.*
+git commit -m 'your message'
+git push
+
+8- Congratulations, you've just pushed your code to github.
