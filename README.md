@@ -1,2 +1,2 @@
 # RoomDBIntegration
-Room Database integration with work manager in Java.
+Room Database integration with work manager.
